@@ -1,1 +1,0 @@
-[{"titulo":"Cuadro Ronaldo","descripcion":"Cristiano Ronaldo","precio":50000,"imagen":"imagen3","code":"C3","stock":5,"id":3},{"titulo":"Cuadro Messi","descripcion":"Lionel Andres Messi","precio":50000,"imagen":"imagen2","code":"C2","stock":10,"id":2}]
